@@ -15,7 +15,7 @@ I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently 
 - Backend: Python , Flask , Django
 - Databases: SQLite, MySQL , AlchemySQL, PostgreSQL
 - Tools: Git & GitHub , AWS
-- 
+
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true)
