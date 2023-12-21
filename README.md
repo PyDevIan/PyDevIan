@@ -17,11 +17,11 @@ I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently 
 - Tools: Git & GitHub , AWS
 
 ## Data Science and Machine Learnig
--Pandas
--NumPy
--Scikit-Learn
--Matplotlib , Seaborn , Plotly
--Tensorflow
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib , Seaborn , Plotly
+- Tensorflow
 
 ## GitHub Stats
 
