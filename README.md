@@ -1,5 +1,5 @@
 # 👋 Hi, I’m PyDevIan
-Research Scientist|Developer|Machine Learning Enthusiast
+Research Scientist|Developer|Data Science & Machine Learning Enthusiast
 ## About Me
 I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently a Data Science and Machine Learning MSc Student
 
