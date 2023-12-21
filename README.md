@@ -12,9 +12,16 @@ I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently 
 ## My Tech Stack
 - Programming Languages: Python , R ,JS
 - Frontend: HTML , CSS
-- Backend: Python , Flask , Django
+- Backend: Python , Flask 
 - Databases: SQLite, MySQL , AlchemySQL, PostgreSQL
 - Tools: Git & GitHub , AWS
+
+## Data Science and Machine Learnig
+-Pandas
+-NumPy
+-Scikit-Learn
+-Matplotlib , Seaborn , Plotly
+-Tensorflow
 
 ## GitHub Stats
 
