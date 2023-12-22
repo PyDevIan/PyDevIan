@@ -4,9 +4,9 @@ Research Scientist|Developer|Data Science & Machine Learning Enthusiast
 I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently a Data Science and Machine Learning MSc Student
 
 - 👀 I’m interested in Data Science , Machine Learning and AI
-- 🌱 I’m currently learning Mathematics for Machine Learning at my MSc Curriculum
+- 🌱 I’m currently learning Mathematics for Machine Learning at my MSc Curriculum 
 - 💬 Ask me about Research , Innovation and Project Management in combination with Data Science and ML.
-- 💞️ I’m looking to collaborate on Data Science projects and Machine Learning 
+- 👍 I’m looking to collaborate on Data Science projects and Machine Learning 
 
 
 ## My Tech Stack
@@ -31,6 +31,9 @@ I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently 
 ## Connect with Me
 
 - 📫 You can reach me through my Linkedin: [Ioannis Tsioukis](https://www.linkedin.com/in/ioannis-tsioukis/)
+
+## Check out my Blog
+- [PydevIan](https://pydevian.github.io/BlogWebsite/)
 
 
 Feel free to reach out and connect!
