@@ -33,7 +33,7 @@ I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently 
 - 📫 You can reach me through my Linkedin: [Ioannis Tsioukis](https://www.linkedin.com/in/ioannis-tsioukis/)
 
 ## Check out my Blog
-- [PydevIan](https://pydevian.github.io/BlogWebsite/)
+- [PydevIan](https://pydevian.github.io/BlogWebsite/) 🚀 
 
 
 Feel free to reach out and connect!
