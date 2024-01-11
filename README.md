@@ -14,7 +14,7 @@ I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently 
 - Frontend: HTML , CSS
 - Backend: Python , Flask 
 - Databases: SQLite, MySQL , AlchemySQL, PostgreSQL
-- Tools: Git & GitHub , AWS
+- Tools: Git & GitHub , AWS , SagaMath
 
 ## Data Science and Machine Learnig
 - Pandas
