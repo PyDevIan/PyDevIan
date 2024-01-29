@@ -30,6 +30,7 @@ I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently 
 
 ## Connect with Me
 
+- - 📫 You can reach me through my Instagram: [PyDevIan](https://www.instagram.com/pydevian?igsh=Z2Y5c3YycWFjeGdy)
 - 📫 You can reach me through my Linkedin: [Ioannis Tsioukis](https://www.linkedin.com/in/ioannis-tsioukis/)
 
 ## Check out my Blog
