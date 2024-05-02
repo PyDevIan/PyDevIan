@@ -14,14 +14,16 @@ I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently 
 - Frontend: HTML , CSS
 - Backend: Python , Flask 
 - Databases: SQLite, MySQL , AlchemySQL, PostgreSQL
-- Tools: Git & GitHub , AWS , SageMath
+- Tools: Git & GitHub , AWS , SageMath 
 
-## Data Science and Machine Learnig
+## Data Science and Machine Learning , Business Insights
+- PowerBI , Power Query and DAX
 - Pandas
 - NumPy
 - Scikit-Learn
-- Matplotlib , Seaborn , Plotly
 - Tensorflow
+- Matplotlib , Seaborn , Plotly
+
 
 ## GitHub Stats
 
