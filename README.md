@@ -1,27 +1,32 @@
-# 👋 Hi, I’m PyDevIan
-Research Scientist|Developer|Data Science & Machine Learning Enthusiast
+# 👋 Hi, I’m Ioannis aka PyDevIan
+Research Scientist|Data Scientist|AI/ML Engineer|Python Developer
 ## About Me
-I have a BSc in Chemistry with 5 years expierence in RnD Projects and currently a Data Science and Machine Learning MSc Student
+I have a BSc in Chemistry with 6 years expierence in RnD Projects and currently a Data Science and Machine Learning MSc Student
 
 - 👀 I’m interested in Data Science , Machine Learning and AI
-- 🌱 I’m currently learning Mathematics for Machine Learning at my MSc Curriculum 
+- 🌱 I’m currently learning Algorithmic Techniques and Systems for Machine Learning at my MSc Curriculum 
 - 💬 Ask me about Research , Innovation and Project Management in combination with Data Science and ML.
 - 👍 I’m looking to collaborate on Data Science projects and Machine Learning 
 
 
 ## My Tech Stack
-- Programming Languages: Python , R ,JS
+- Programming Languages: Python , R ,JS ,SQL 
 - Frontend: HTML , CSS
 - Backend: Python , Flask 
 - Databases: SQLite, MySQL , AlchemySQL, PostgreSQL
 - Tools: Git & GitHub , AWS , SageMath 
 
-## Data Science and Machine Learning , Business Insights
+## Data Science and Machine Learning , Business Insights ,AI
 - PowerBI , Power Query and DAX
 - Pandas
 - NumPy
+- SciPy
+- SymPy
 - Scikit-Learn
 - Tensorflow
+- NLTK & SpaCy
+- OpenCV
+- Pillow
 - Matplotlib , Seaborn , Plotly
 
 
