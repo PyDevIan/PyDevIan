@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ioannis aka PyDevIan
+# 👋 Hi, I’m Ioannis 
 Research Scientist|Data Scientist|AI/ML Engineer|Python Developer
 ## About Me
 I have a BSc in Chemistry with 6 years expierence in RnD Projects and currently a Data Science and Machine Learning MSc Student
