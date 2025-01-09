@@ -43,6 +43,9 @@ I have a BSc in Chemistry with 6 years expierence in RnD Projects and currently 
 ## Check out my Blog
 - [Personal Website](https://pydevian.github.io/BlogWebsite/) 🚀 
 
+## Badges
+
+[![Microsoft Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/0c5e3fb1-5ce6-4bd5-ae4c-42f4b379bf85/public_url)[![AI Programming Summer School](https://images.credly.com/size/110x110/images/394d73b4-2476-4602-a264-fcf1bcd6f441/image.png)](https://www.credly.com/badges/20c28810-2300-4cc6-af43-14b83fce8ef0/public_url)
 
 Feel free to reach out and connect!
 
