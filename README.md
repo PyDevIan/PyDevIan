@@ -1,18 +1,28 @@
 # 👋 Hi, I’m Ioannis 
-Research Scientist|Data Scientist|AI/ML Engineer|Python Developer
-## About Me
-I have a BSc in Chemistry with 6 years expierence in RnD Projects and currently a Data Science and Machine Learning MSc Student
+AI Researcher|Data Scientist|AI/ML Engineer|Python Developer
 
-- 👀 I’m interested in Data Science , Machine Learning and AI
-- 🌱 I’m currently learning Algorithmic Techniques and Systems for Machine Learning at my MSc Curriculum 
-- 💬 Ask me about Research , Innovation and Project Management in combination with Data Science and ML.
-- 👍 I’m looking to collaborate on Data Science projects and Machine Learning 
+## 🧪 About Me
+I’m an AI Researcher specializing in industrial AI integration. I hold a BSc in Chemistry and bring 6 years of R&D project experience. Currently, I’m advancing my expertise as an MSc student in Data Science & Machine Learning.
 
+## 👀 Interests
+- Data Science  
+- Machine Learning  
+- Artificial Intelligence  
+
+## 🌱 Currently Learning
+- Algorithmic Techniques & Systems for Machine Learning  
+
+## 💬 Ask Me About
+- Research & Innovation  
+- Project Management in Data Science & ML  
+
+## 🤝 Let’s Collaborate
+I’m always looking to partner on AI , Data Science and Machine Learning projects. Feel free to connect!  
 
 ## My Tech Stack
 - Programming Languages: Python , R ,JS ,SQL 
 - Frontend: HTML , CSS
-- Backend: Python , Flask 
+- Backend: Python 
 - Databases: SQLite, MySQL , AlchemySQL, PostgreSQL
 - Tools: Git & GitHub , AWS , SageMath 
 
@@ -28,6 +38,8 @@ I have a BSc in Chemistry with 6 years expierence in RnD Projects and currently 
 - OpenCV
 - Pillow
 - Matplotlib , Seaborn , Plotly
+- Flask , Streamlit
+- Langflow , Langchain , Langfuse 
 
 
 ## GitHub Stats
