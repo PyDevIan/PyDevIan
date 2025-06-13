@@ -13,6 +13,7 @@ I’m an AI Researcher specializing in industrial AI integration. I hold a BSc i
 - Algorithmic Techniques & Systems for Machine Learning  
 
 ## 💬 Ask Me About
+- AI 
 - Research & Innovation  
 - Project Management in Data Science & ML  
 
@@ -23,7 +24,7 @@ I’m always looking to partner on AI , Data Science and Machine Learning projec
 - Programming Languages: Python , R ,JS ,SQL 
 - Frontend: HTML , CSS
 - Backend: Python 
-- Databases: SQLite, MySQL , AlchemySQL, PostgreSQL
+- Databases: SQLite, MySQL , AlchemySQL, PostgreSQL , AstraDB
 - Tools: Git & GitHub , AWS , SageMath 
 
 ## Data Science and Machine Learning , Business Insights ,AI
