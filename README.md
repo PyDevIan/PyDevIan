@@ -13,9 +13,9 @@ I’m an AI Researcher specializing in industrial AI integration. I hold a BSc i
 - Algorithmic Techniques & Systems for Machine Learning  
 
 ## 💬 Ask Me About
-- AI 
-- Research & Innovation  
-- Project Management in Data Science & ML  
+- AI / ML Engineering
+- Data Science & Big Data
+- Research & Innovation   
 
 ## 🤝 Let’s Collaborate
 I’m always looking to partner on AI , Data Science and Machine Learning projects. Feel free to connect!  
