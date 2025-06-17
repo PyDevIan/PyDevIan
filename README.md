@@ -64,7 +64,7 @@ I’m always looking to partner on AI , Data Science and Machine Learning projec
 
 ## Connect with Me
 
-- 📫 You can reach me through my Instagram: [A.D.A.M.](https://www.instagram.com/adam_ai_ml?igsh=Z2Y5c3YycWFjeGdy)
+- 📫 You can reach me through my Instagram: [PyDevIan](https://www.instagram.com/adam_ai_ml?igsh=Z2Y5c3YycWFjeGdy)
 - 📫 You can reach me through my Linkedin: [Ioannis Tsioukis](https://www.linkedin.com/in/ioannis-tsioukis/)
 
 ## Check out my Blog
