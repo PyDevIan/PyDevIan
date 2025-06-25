@@ -111,7 +111,7 @@ Feel free to connect or reach out!
   <img src="https://img.shields.io/badge/Instagram-@pydevian-E4405F?logo=instagram&style=for-the-badge" alt="Instagram Badge"/>
 </a>
 </br>
-<a href="https://pydevian.github.io/BlogWebsite/" target="_blank">
+<a href="https://pydevian.github.io/personal_website/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-pydevian.github.io-0A0A0A?style=for-the-badge" alt="Blog Badge"/>
 </a>
 
