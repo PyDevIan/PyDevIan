@@ -10,7 +10,8 @@ I’m an AI Researcher specializing in industrial AI integration. I hold a BSc i
 - Artificial Intelligence  
 
 ## 🌱 Currently Learning
-- Algorithmic Techniques & Systems for Machine Learning  
+- Numerical and Computational Techniques for Data Science and Machine Learning for my MSc.
+- Power Apps , Power Automate and Microsoft Fabric. 
 
 ## 💬 Ask Me About
 - AI / ML Engineering
