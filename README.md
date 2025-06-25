@@ -1,12 +1,16 @@
 # 👋 Hi there, I'm Ioannis (a.k.a. PyDevIan)  
-🎓 AI Researcher | 🧪 Data Scientist | 🧠 ML Engineer | 🐍 Python Developer
+🧠 AI Researcher | 🤖 AI/ML Engineer | 📊 Data Scientist | 🐍 Python Developer
+
 
 ---
 
 ## 🧪 About Me
 
-I’m an AI Researcher with a BSc in Chemistry and over 6 years of experience in R&D.  
-Currently pursuing an MSc in Data Science & Machine Learning, I focus on integrating cutting-edge AI solutions into industrial applications.
+I’m an **AI Researcher** specializing in the design and development of end-to-end AI applications for **industrial automation and AI integration**. In my current role, I lead the creation of both **front-end interfaces and backend systems** that bring machine learning into real-world industrial workflows.
+
+My journey began with a **BSc in Chemistry**, followed by **6 years of hands-on R&D experience in industrial innovation**. This foundation in experimental science and process optimization gave me a systems-thinking approach I now apply to AI engineering.
+
+To deepen my expertise, I’m currently completing an **MSc in Data Science & Machine Learning**, bridging scientific rigor with advanced computational modeling to drive next-generation intelligent systems.
 
 ---
 
@@ -40,7 +44,7 @@ Feel free to connect or reach out!
 **Frontend**: HTML, CSS  
 **Backend & APIs**: Flask, Streamlit  
 **Databases**: PostgreSQL, MySQL, SQLite, AstraDB  
-**Cloud & Tools**: AWS, Git/GitHub, SageMath  
+**Cloud & Tools**: Azure AI, Git/GitHub, SageMath  
 **DS/ML Libraries**: Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, OpenCV  
 **Visualization**: Matplotlib, Seaborn, Plotly  
 **NLP**: NLTK, SpaCy  
@@ -73,7 +77,7 @@ Feel free to connect or reach out!
 </details>
 
 <details>
-  <summary>🔁 My Contribution Streak</summary>
+  <summary>🔥 GitHub Contribution Streak</summary>
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PyDevIan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
@@ -90,9 +94,17 @@ Feel free to connect or reach out!
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ioannis-tsioukis/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@PyDevIan-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/PyDevIan?igsh=Z2Y5c3YycWFjeGdy)  
-[![Website](https://img.shields.io/badge/Blog-pydevian.github.io-0A0A0A?style=for-the-badge)](https://pydevian.github.io/BlogWebsite/)
+<a href="https://www.linkedin.com/in/ioannis-tsioukis/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+</a>
+</br>
+<a href="https://www.instagram.com/pydevian?igsh=Z2Y5c3YycWFjeGdy" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@pydevian-E4405F?logo=instagram&style=for-the-badge" alt="Instagram Badge"/>
+</a>
+</br>
+<a href="https://pydevian.github.io/BlogWebsite/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-pydevian.github.io-0A0A0A?style=for-the-badge" alt="Blog Badge"/>
+</a>
 
 ---
 
