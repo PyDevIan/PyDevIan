@@ -45,7 +45,7 @@ I’m always looking to partner on AI , Data Science and Machine Learning projec
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true&cache_seconds=1800&v=#)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true&cache_seconds=1800&v=1)
 
 🏆 GitHub Trophies
 
