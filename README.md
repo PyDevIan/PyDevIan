@@ -1,81 +1,92 @@
-# 👋 Hi, I’m Ioannis 
-AI Researcher|Data Scientist|AI/ML Engineer|Python Developer
+# 👋 Hi there, I'm Ioannis (a.k.a. PyDevIan)  
+🎓 AI Researcher | 🧪 Data Scientist | 🧠 ML Engineer | 🐍 Python Developer
+
+---
 
 ## 🧪 About Me
-I’m an AI Researcher specializing in industrial AI integration. I hold a BSc in Chemistry and bring 6 years of R&D project experience. Currently, I’m advancing my expertise as an MSc student in Data Science & Machine Learning.
 
-## 👀 Interests
-- Data Science  
-- Machine Learning  
-- Artificial Intelligence  
+I’m an AI Researcher with a BSc in Chemistry and over 6 years of experience in R&D.  
+Currently pursuing an MSc in Data Science & Machine Learning, I focus on integrating cutting-edge AI solutions into industrial applications.
 
-## 🌱 Currently Learning
-- Numerical and Computational Techniques for Data Science and Machine Learning for my MSc.
-- Power Apps , Power Automate and Microsoft Fabric. 
+---
+
+## 🎯 Interests & Learning
+
+- Industrial AI Integration  
+- Data Science & Machine Learning  
+- Power Platform (Power Apps, Automate, Microsoft Fabric)  
+- Numerical Computing for DS/ML (via MSc coursework)
+
+---
 
 ## 💬 Ask Me About
-- AI / ML Engineering
-- Data Science & Big Data
-- Research & Innovation   
+
+- AI / ML Engineering  
+- Data Science & Big Data  
+- Research & Innovation  
+
+---
 
 ## 🤝 Let’s Collaborate
-I’m always looking to partner on AI , Data Science and Machine Learning projects. Feel free to connect!  
 
-## My Tech Stack
-- Programming Languages: Python , R ,JS ,SQL 
-- Frontend: HTML , CSS
-- Backend: Python 
-- Databases: SQLite, MySQL , AlchemySQL, PostgreSQL , AstraDB
-- Tools: Git & GitHub , AWS , SageMath 
+I'm open to collaborating on impactful AI, Machine Learning, and Data Science projects.  
+Feel free to connect or reach out!
 
-## Data Science and Machine Learning , Business Insights ,AI
-- PowerBI , Power Query and DAX
-- Pandas
-- NumPy
-- SciPy
-- SymPy
-- Scikit-Learn
-- Tensorflow
-- NLTK & SpaCy
-- OpenCV
-- Pillow
-- Matplotlib , Seaborn , Plotly
-- Flask , Streamlit
-- Langflow , Langchain , Langfuse 
+---
 
+## 🧰 Tech Stack
 
-## GitHub Stats
+**Languages**: Python, R, JavaScript, SQL  
+**Frontend**: HTML, CSS  
+**Backend & APIs**: Flask, Streamlit  
+**Databases**: PostgreSQL, MySQL, SQLite, AstraDB  
+**Cloud & Tools**: AWS, Git/GitHub, SageMath  
+**DS/ML Libraries**: Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, OpenCV  
+**Visualization**: Matplotlib, Seaborn, Plotly  
+**NLP**: NLTK, SpaCy  
+**Low-Code Platforms**: Power BI, Power Query, DAX  
+**LangChain Stack**: Langflow, Langchain, Langfuse
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true&cache_seconds=1800&v=1)
+---
 
-🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PyDevIan&theme=gruvbox)
+<details>
+  <summary>💡 GitHub Stats</summary>
 
-🔁 Most Used Languages
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDevIan&layout=compact&langs_count=6&cache_seconds=1800&v=2)
+</details>
 
+<details>
+  <summary>🏆 GitHub Trophies</summary>
 
-🔗 Contribution Streak
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PyDevIan&theme=gruvbox)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PyDevIan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+</details>
 
+<details>
+  <summary>🔁 Most Used Languages</summary>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDevIan&layout=compact&langs_count=6&theme=dark)
 
-## Connect with Me
+</details>
 
-- 📫 You can reach me through my Instagram: [PyDevIan](https://www.instagram.com/adam_ai_ml?igsh=Z2Y5c3YycWFjeGdy)
-- 📫 You can reach me through my Linkedin: [Ioannis Tsioukis](https://www.linkedin.com/in/ioannis-tsioukis/)
+---
 
-## Check out my Blog
-- [Personal Website](https://pydevian.github.io/BlogWebsite/) 🚀 
+## 🏅 Certifications
 
-## Badges
+[![Microsoft Azure AI Fundamentals](https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/0c5e3fb1-5ce6-4bd5-ae4c-42f4b379bf85/public_url)
+[![AI Programming Summer School](https://images.credly.com/size/220x220/images/394d73b4-2476-4602-a264-fcf1bcd6f441/image.png)](https://www.credly.com/badges/20c28810-2300-4cc6-af43-14b83fce8ef0/public_url)
 
-[![Microsoft Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/0c5e3fb1-5ce6-4bd5-ae4c-42f4b379bf85/public_url)[![AI Programming Summer School](https://images.credly.com/size/110x110/images/394d73b4-2476-4602-a264-fcf1bcd6f441/image.png)](https://www.credly.com/badges/20c28810-2300-4cc6-af43-14b83fce8ef0/public_url)
+---
 
-Feel free to reach out and connect!
+## 🔗 Connect with Me
 
-⭐️ Thank you for visiting my profile! ⭐️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ioannis-tsioukis/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@PyDevIan-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/PyDevIan?igsh=Z2Y5c3YycWFjeGdy)  
+[![Website](https://img.shields.io/badge/Blog-pydevian.github.io-0A0A0A?style=for-the-badge)](https://pydevian.github.io/BlogWebsite/)
 
+---
+
+⭐️ Thank you for visiting my profile — let's build the future of AI together! ⭐️
