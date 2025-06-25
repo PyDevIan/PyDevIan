@@ -83,6 +83,15 @@ Feel free to connect or reach out!
 
 </details>
 
+<details>
+  <summary>📦 My Repository Count</summary>
+  
+  ![Total Private Repositories](https://img.shields.io/badge/Private%20Repositories-6-red?style=for-the-badge&logo=github)
+  </br>
+  ![Total Public Repositories](https://img.shields.io/badge/Public%20Repositories-5-darkgreen?style=for-the-badge&logo=github)
+  
+</details>  
+
 ---
 
 ## 🏅 Certifications
