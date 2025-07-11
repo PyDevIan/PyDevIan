@@ -58,7 +58,7 @@ Feel free to connect or reach out!
 <details>
   <summary>💡 GitHub Stats</summary>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true&theme=dark&cache_seconds=1800&v=1)
 
 </details>
 
