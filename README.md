@@ -58,7 +58,7 @@ Feel free to connect or reach out!
 <details>
   <summary>💡 GitHub Stats</summary>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true&theme=dark&cache_seconds=1800&v=1)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyDevIan&show_icons=true&count_private=true&theme=dark&cache_seconds=1800&v=#)
 
 </details>
 
@@ -86,7 +86,7 @@ Feel free to connect or reach out!
 <details>
   <summary>📦 My Repository Count</summary>
   
-  ![Total Private Repositories](https://img.shields.io/badge/Private%20Repositories-6-red?style=for-the-badge&logo=github)
+  ![Total Private Repositories](https://img.shields.io/badge/Private%20Repositories-7-red?style=for-the-badge&logo=github)
   </br>
   ![Total Public Repositories](https://img.shields.io/badge/Public%20Repositories-5-darkgreen?style=for-the-badge&logo=github)
   
