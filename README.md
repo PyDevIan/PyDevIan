@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Ioannis (a.k.a. PyDevIan)  
-🤖 Lead AI/ML Full Stack Engineer | 📊 Data Scientist | 🐍 Python Developer
+🤖 Lead AI/ML Full-Stack Engineer | 📊 Data Scientist | 🐍 Python Developer
 
 
 ---
 
 ## 🧪 About Me
 
-I’m an **AI/ML Full Stack Engineer** specializing in the design and development of end-to-end AI applications for **industrial automation and AI integration**. In my current role, I lead the creation of both **front-end interfaces and backend systems** that bring machine learning into real-world industrial workflows.
+I’m an **AI/ML Full-Stack Engineer** specializing in the design and development of end-to-end AI applications for **industrial automation and AI integration**. In my current role, I lead the creation of both **front-end interfaces and backend systems** that bring machine learning into real-world industrial workflows.
 
 My journey began with a **BSc in Chemistry**, followed by **6 years of hands-on R&D experience in industrial innovation**. This foundation in experimental science and process optimization gave me a systems-thinking approach I now apply to AI engineering.
 
