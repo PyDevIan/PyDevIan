@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Ioannis (a.k.a. PyDevIan)  
-🤖 Lead AI/ML Full-Stack Engineer | 📊 Data Scientist | 🐍 Python Developer
+🤖 AI/ML Full-Stack Engineering Lead | 📊 Data Scientist | 🐍 Python Developer
 
 
 ---
