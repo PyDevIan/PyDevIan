@@ -44,7 +44,7 @@ Feel free to connect or reach out!
 
 **Languages**: Python, R, JavaScript, SQL  
 **Frontend**: HTML, CSS  
-**Backend & APIs**: Flask, Streamlit  
+**Backend & APIs**: Flask, Streamlit ,Fastapi 
 **Databases**: PostgreSQL, MySQL, SQLite, AstraDB  
 **Cloud & Tools**: Azure AI, Git/GitHub, SageMath  
 **DS/ML Libraries**: Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, OpenCV  
