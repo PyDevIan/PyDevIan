@@ -12,7 +12,7 @@ My journey began with a **BSc in Chemistry**, followed by **6 years of hands-on 
 
 To deepen my expertise, I’m currently completing an **MSc in Data Science & Machine Learning**, bridging scientific rigor with advanced computational modeling to drive next-generation intelligent systems.
 
----
+
 
 ## 🎯 Interests & Learning
 
@@ -34,7 +34,7 @@ To deepen my expertise, I’m currently completing an **MSc in Data Science & Ma
 - **AI Strategy & Technical Leadership**  
   (architecture trade-offs, ROI framing, build vs buy decisions)
 
----
+
 
 ## 💬 Ask Me About
 
@@ -44,18 +44,18 @@ To deepen my expertise, I’m currently completing an **MSc in Data Science & Ma
 - **Backend architecture for AI-heavy systems**
 - **Technical leadership & AI delivery in industrial environments**
 
----
+
 
 ## 🧰 Tech Stack
 
 **Languages**  
-Python (advanced, async), SQL, JavaScript, TypeScript  
+Python (advanced, async), R, SQL, JavaScript, TypeScript , C# (basic)  
 
 **Backend & APIs**  
-FastAPI, Async Python, REST, OAuth2/JWT, LangChain-based AI services  
+FastAPI, Flask, Async Python, REST, OAuth2/JWT, LangChain-based AI services  
 
 **Frontend (Supportive, not UI-first)**  
-Jinja2, Bootstrap, HTML5, CSS3  
+Jinja2, Bootstrap5, HTML5, CSS3  
 React + TypeScript (supporting skills for complex frontends)
 
 **AI / ML**  
@@ -77,12 +77,6 @@ LangChain, Langflow, Langfuse
 
 *(Low-code / Power Platform intentionally de-emphasized)*
 
----
-
-## 🤝 Let’s Collaborate
-
-I'm open to collaborating on impactful AI, Machine Learning, and Data Science projects.  
-Feel free to connect or reach out!
 
 ---
 
@@ -125,7 +119,7 @@ Feel free to connect or reach out!
   
 </details>  
 
----
+
 
 ## 🏅 Certifications
 
@@ -148,6 +142,10 @@ Feel free to connect or reach out!
   <img src="https://img.shields.io/badge/Blog-pydevian.github.io-0A0A0A?style=for-the-badge" alt="Blog Badge"/>
 </a>
 
----
+
+## 🤝 Let’s Collaborate
+
+I'm open to collaborating on impactful AI, Machine Learning, and Data Science projects.  
+Feel free to connect or reach out!
 
 ⭐️ Thank you for visiting my profile — let's build the future of AI together! ⭐️
