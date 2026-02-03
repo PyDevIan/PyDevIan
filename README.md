@@ -16,20 +16,66 @@ To deepen my expertise, I’m currently completing an **MSc in Data Science & Ma
 
 ## 🎯 Interests & Learning
 
-- Industrial AI Integration  
-- Data Science & Machine Learning  
-- Power Platform (Power Apps, Automate, Microsoft Fabric)  
-- Numerical Computing for DS/ML (via MSc coursework)
-- Full Stack Developing of AI applications
-- AI-as-a-service
+- **Production AI & LLM Systems Engineering**  
+  (evaluation, robustness, monitoring, governance, cost/latency trade-offs)
+
+- **Industrial AI Integration**  
+  (AI → API → UI → operations, real production constraints)
+
+- **Backend-Centric AI Architectures**  
+  (FastAPI, async systems, background processing, CQRS-style patterns)
+
+- **Data & MLOps Pipelines**  
+  (ETL orchestration, data versioning, observability, reproducibility)
+
+- **Cloud-Native AI Deployments**  
+  (Docker, CI/CD, Kubernetes — hands-on and ramping up)
+
+- **AI Strategy & Technical Leadership**  
+  (architecture trade-offs, ROI framing, build vs buy decisions)
 
 ---
 
 ## 💬 Ask Me About
 
-- AI / ML Engineering  
-- Data Science & Big Data  
-- Research & Innovation  
+- **Designing production-grade AI & LLM systems**
+- **End-to-end AI platforms** (data → model → API → UI → ops)
+- **LLM evaluation, monitoring & failure modes**
+- **Backend architecture for AI-heavy systems**
+- **Technical leadership & AI delivery in industrial environments**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+Python (advanced, async), SQL, JavaScript, TypeScript  
+
+**Backend & APIs**  
+FastAPI, Async Python, REST, OAuth2/JWT, LangChain-based AI services  
+
+**Frontend (Supportive, not UI-first)**  
+Jinja2, Bootstrap, HTML5, CSS3  
+React + TypeScript (supporting skills for complex frontends)
+
+**AI / ML**  
+Scikit-Learn, TensorFlow, LLMs, Prompt Evaluation, RAG architectures  
+
+**Data & MLOps**  
+ETL pipelines, Airflow, Prefect, DVC, PostgreSQL, SQLite  
+
+**Cloud & DevOps**  
+Azure (primary), Docker, Docker Compose, GitHub Actions  
+Kubernetes (hands-on, scaling to production)  
+AWS (basic exposure)
+
+**Observability & Lifecycle**  
+PyTest, Jest, CI gates, monitoring, error tracking, performance profiling  
+
+**LLM Tooling**  
+LangChain, Langflow, Langfuse  
+
+*(Low-code / Power Platform intentionally de-emphasized)*
 
 ---
 
@@ -37,21 +83,6 @@ To deepen my expertise, I’m currently completing an **MSc in Data Science & Ma
 
 I'm open to collaborating on impactful AI, Machine Learning, and Data Science projects.  
 Feel free to connect or reach out!
-
----
-
-## 🧰 Tech Stack
-
-**Languages**: Python, R, JavaScript, SQL  
-**Frontend**: HTML, CSS  
-**Backend & APIs**: Flask, Streamlit ,FastApi  
-**Databases**: PostgreSQL, MySQL, SQLite, AstraDB  
-**Cloud & Tools**: Azure AI, Git/GitHub, SageMath  
-**DS/ML Libraries**: Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, OpenCV  
-**Visualization**: Matplotlib, Seaborn, Plotly  
-**NLP**: NLTK, SpaCy  
-**Low-Code Platforms**: Power BI, Power Query, DAX  
-**LangChain Stack**: Langflow, Langchain, Langfuse
 
 ---
 
